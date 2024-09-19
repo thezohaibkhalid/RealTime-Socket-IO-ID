@@ -46,7 +46,7 @@ This project demonstrates a simple application using **Socket.IO** and **EJS**. 
 4. Start the server:
 
    ```bash
-   npm start
+   node index.js
    ```
 
 5. Open your browser and visit:
